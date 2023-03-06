@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fahmi Ardiansyah</h1>
 <h3 align="center">Software Developer Engineer From Indonesia</h3>
 
-<img align= "center" alt ="gambar anime coding" width ="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmi959" alt="fahmi959" /></a> </p>
+
+<img align= "center" alt ="gambar anime coding" width ="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/](https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/)
 
