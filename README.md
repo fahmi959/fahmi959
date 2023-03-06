@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmi959" alt="fahmi959" /></a> </p>
 
-<img align= "right" alt ="gambar anime coding" width ="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+<img align= "right" alt ="gambar anime coding" width ="400" src="[https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/](https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/)
 
