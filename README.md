@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en" alt="fahmi959" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&" alt="fahmi959" />
-<img align= "right" alt ="gambar anime coding" width ="350" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&" alt="fahmi959" /> 
+<img align= "right" alt ="gambar anime coding" width ="350" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p><hr>
 
