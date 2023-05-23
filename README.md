@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmi959" alt="fahmi959" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="ryo-ma" /></a> 
 
-<img align= "right" alt ="gambar anime coding" width ="350" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<img align= "center" alt ="gambar anime coding" width ="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/](https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/)
 
