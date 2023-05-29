@@ -50,4 +50,5 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=chartreuse-dark" alt="fahmi959" /> 
-<img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p><br><hr>
+<img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
+<br><br><br><br><br><br><br><br><hr>
