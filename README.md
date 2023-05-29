@@ -26,9 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=github" alt="fahmi959" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=synthwave" alt="fahmi959" /></p><hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark" alt="fahmi959" /></p><hr>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=monokai" alt="fahmi959" /> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=vision-friendly-dark" alt="fahmi959" /> 
 <img align= "right" alt ="gambar anime coding" width ="350" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p><hr>
 
