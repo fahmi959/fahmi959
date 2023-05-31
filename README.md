@@ -45,13 +45,13 @@
 </p><hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=chartreuse-dark&langs_count=30" alt="fahmi959"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmi959&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=defaultk&langs_count=30" alt="fahmi959"/></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark" alt="fahmi959" /></p><hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&locale=en&include_all_commits=true&theme=default" alt="fahmi959" /></p><hr>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=chartreuse-dark" alt="fahmi959" /> 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmi959&theme=default" alt="fahmi959" /> 
 <img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
 <br><br><br><br><br><br><br><br><hr>
 
