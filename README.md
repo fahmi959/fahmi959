@@ -55,8 +55,6 @@
 <img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
 <br><br><br><br><br><br><br><br><hr>
 
-<img align="center" src="https://camo.githubusercontent.com/63e139de7f45aefce7d07918c19e935fd40e5c0b9bdad27f63aa1645ef0581be/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d74727565" alt="Lord Fahmi's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fahmi959&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
-
 <img src="https://camo.githubusercontent.com/6f7852c8e9f6d9ab3431e3e3bcd1b177a26db0565cd0d91616ef489ac436a1f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d4861726c6f6b266c61796f75743d636f6d70616374" alt="Fahmi's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmi959&amp;layout=compact" style="max-width: 100%;">
 
 
