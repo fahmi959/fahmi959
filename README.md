@@ -55,6 +55,6 @@
 <img align= "left" alt ="gambar anime coding" width ="295" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></p>
 <br><br><br><br><br><br><br><br><hr>
 
-<img src="https://camo.githubusercontent.com/6f7852c8e9f6d9ab3431e3e3bcd1b177a26db0565cd0d91616ef489ac436a1f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d4861726c6f6b266c61796f75743d636f6d70616374" alt="Fahmi's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmi959&amp;layout=compact" style="max-width: 100%;">
+
 
 
