@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/](https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/)
 
-- 📝 I regularly write articles on [fahmia2001.blogspot.com](fahmia2001.blogspot.com)
+- 📝 I regularly write articles on [fahmia2001.blogspot.com](http://fahmia2001.blogspot.com)
 
 - 📫 How to reach me **fahmiardiansyah959@students.unnes.ac.id, a286dkx4416@bangkit.academy**
 
