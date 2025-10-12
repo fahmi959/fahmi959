@@ -85,5 +85,23 @@
 </p>
 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/316v5jwr6xfzzpw3qsbyo3sr6h2e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316v5jwr6xfzzpw3qsbyo3sr6h2e&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
