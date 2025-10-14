@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Fahmi Ardiansyah</h1>
 <h3 align="center">Software Developer Engineer from Indonesia</h3>
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <p align="left">
@@ -11,6 +27,8 @@
         <img src="https://img.shields.io/badge/Sponsor-available-purple" alt="GitHub Sponsors" />
     </a></p>
 </div>
+
+
 
 <p align="left"> <a href="https://github.com/fahmi959/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord" alt="fahmi959" /></a> </p>
 
@@ -98,9 +116,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmi959/fahmi959/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahmi959/fahmi959/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fahmi959/fahmi959/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmi959/Upload/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahmi959/Upload/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fahmi959/Upload/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
