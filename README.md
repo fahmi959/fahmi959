@@ -18,6 +18,16 @@
 <img src="https://img.shields.io/github/followers/fahmi959?style=for-the-badge&label=FOLLOWERS&color=FF4500&logo=github" />
 </a>
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20views&color=0e75b6&style=flat" alt="fahmi959" />
+         <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status" />
+           <img src="https://img.shields.io/badge/YoLo-Completed-red" alt="YoLo Badge" />
+   <a href="https://github.com/sponsors/fahmi959">
+        <img src="https://img.shields.io/badge/Sponsor-available-purple" alt="GitHub Sponsors" />
+    </a></p>
+</div>
+
 <br><br>
 
 🔥 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🔥
