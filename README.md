@@ -198,8 +198,6 @@ I also build digital learning tools for Informatics education, including:
 
 </div>
 
----
-
 # 🎯 Areas of Interest
 
 ```text
