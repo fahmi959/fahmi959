@@ -141,17 +141,39 @@ I'm currently focusing on:
     alt="Fahmi's GitHub Stats"
     height="180"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Fahmi's Top Languages"
-    height="180"
-  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true"
+ alt="Fahmi's Top Languages"
+ height="180"
+/>
+
 </p>
+
+### 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=fahmi959&theme=tokyonight&hide_border=true"
-    alt="Fahmi's GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fahmi959&theme=tokyo-night&hide_border=true&area=true&custom_title=Fahmi%27s%20Contribution%20Activity"
+    alt="Fahmi's GitHub Contribution Activity"
+  />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=fahmi959&theme=tokyonight&hide_border=true&starting_year=2023"
+    alt="Fahmi's GitHub Contribution Streak"
+  />
+</p>
+
+### 📅 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fahmi959&theme=github-compact&hide_border=true&area=true&custom_title=2025%20%2B%202026%20Contribution%20Activity"
+    alt="2025 and 2026 GitHub Contribution Activity"
   />
 </p>
 
