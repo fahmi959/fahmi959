@@ -122,15 +122,17 @@ The Skill Icons service supports grouping technology icons, light/dark themes, a
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     alt="Fahmi's GitHub Stats"
     height="180"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Fahmi's Top Languages"
-    height="180"
-  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true"
+ alt="Fahmi's Top Languages"
+ height="180"
+/>
+
 </p>
 
 <p align="center">
@@ -139,6 +141,14 @@ The Skill Icons service supports grouping technology icons, light/dark themes, a
     alt="Fahmi's GitHub Streak"
   />
 </p>
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<p align="center"> <a href="https://github.com/fahmi959"> <img src="https://github-profile-trophy.vercel.app/?username=fahmi959&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="GitHub Profile Trophies" /> </a> </p>
+
+---
 
 GitHub Readme Stats documents the stats and Top Languages cards and notes that the Top Languages card represents language usage in repositories, not a direct measurement of programming skill.
 
