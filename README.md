@@ -176,9 +176,7 @@ I also build digital learning tools for Informatics education, including:
 
 <div align="center">
 
-<a href="https://github.com/fahmi959">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmi959&theme=tokyo-night&hide_border=true&area=true" />
-</a>
+<img src="https://gh-readme-profile.vercel.app/api?username=fahmi959&theme=dark" />
 
 </div>
 
@@ -186,17 +184,27 @@ I also build digital learning tools for Informatics education, including:
 
 # 📌 Featured Projects
 
+
 <div align="center">
 
-<a href="https://github.com/fahmi959/absen-siswa-man-4-tasik">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fahmi959&repo=absen-siswa-man-4-tasik&theme=tokyonight&hide_border=true" />
-</a>
+## 📱 Google Associate Android Developer — Kotlin
 
-<a href="https://github.com/fahmi959/Aksara">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fahmi959&repo=Aksara&theme=tokyonight&hide_border=true" />
+**Android Development • Kotlin • Google Certification**
+
+<a href="https://github.com/fahmi959/Sertifikasi-Google-AAD-Associate-Android-Developer-with-Kotlin-">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
+
+> 📱 A dedicated repository for my **Google Associate Android Developer certification journey**, focusing on Android application development with Kotlin.
+
+### 🛠️ Focus
+
+`Kotlin` `Android` `Android Studio` `Jetpack` `Mobile Development`
+
+---
+
 
 # 🎯 Areas of Interest
 
