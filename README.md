@@ -1,321 +1,308 @@
-<!--
-  GitHub Profile README
-  Username: fahmi959
--->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Fahmi Ardiansyah</h1>
+# 👋 Hi, I'm Fahmi Ardiansyah
 
-<p align="center">
-  <strong>Software Developer & IT Professional from Indonesia</strong>
-</p>
+### 💻 Programmer • IT Enthusiast • Educator • Full-Stack Developer
 
-<p align="center">
-  <a href="https://github.com/fahmi959">
-    <img src="https://img.shields.io/badge/GitHub-fahmi959-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fahmi%20Ardiansyah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/ardgamingfahmi">
-    <img src="https://img.shields.io/badge/Instagram-ardgamingfahmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/@mediaserbabisa1474/videos">
-    <img src="https://img.shields.io/badge/YouTube-Media%20Serba%20Bisa-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+useful+digital+solutions;Web+%7C+Mobile+%7C+Cloud+%7C+AI;Always+learning+%26+always+building" alt="Typing SVG" />
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20Views&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
+<br>
+
+<a href="https://github.com/fahmi959">
+  <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/fahmi959?tab=followers">
+  <img src="https://img.shields.io/github/followers/fahmi959?label=Followers&style=flat" alt="Followers" />
+</a>
+<a href="https://github.com/fahmi959">
+  <img src="https://img.shields.io/github/stars/fahmi959?label=Stars&style=flat" alt="Stars" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a software developer and IT professional from Indonesia who enjoys turning ideas into practical digital products.
+I'm **Fahmi Ardiansyah**, a Computer Science / Informatics graduate and programmer who enjoys building practical digital solutions.
 
-My interests span across **web development, application development, cloud services, databases, automation, and interactive digital experiences**.
+My interests include:
 
-I enjoy building projects that combine clean interfaces, useful functionality, scalable architecture, and maintainable code.
+* 🌐 Web Application Development
+* 📱 Android Application Development
+* ☁️ Cloud & Backend Development
+* 🤖 Artificial Intelligence & AI Agents
+* 🗄️ Database & System Architecture
+* 🎓 Educational Technology
+* ⚡ Automation & Digital Transformation
+* 🏫 School Information Systems
 
-### What I Focus On
-
-* 🌐 Building modern web applications
-* ⚛️ Developing React, Next.js, and TypeScript applications
-* 🗄️ Working with Firebase, Supabase, and modern databases
-* ☁️ Exploring cloud technologies and deployment workflows
-* 🏗️ Designing scalable application architecture
-* 🤖 Exploring Machine Learning and Artificial Intelligence
-* 📱 Developing mobile applications
-* 🔧 Improving software engineering practices
+I enjoy turning ideas into **working applications**, from the frontend interface and backend logic to database design, deployment, and automation.
 
 ---
 
-## 🚀 Current Learning
+## 🚀 What I'm Building
 
-I'm currently focusing on:
+### 🏫 Aksara
 
-* 🤖 **Machine Learning & Artificial Intelligence**
-* ⚛️ **Advanced React.js and Next.js**
-* 🧩 **Scalable frontend architecture and state management**
-* ☁️ **Cloud computing with AWS and Azure**
-* 🗄️ **Modern database architecture**
-* 🛠️ **Software engineering and system design**
-* 🔐 **Application security and reliable system architecture**
-* 🚀 **Cloud deployment and DevOps workflows**
+A modern school technology platform designed to help schools manage their digital ecosystem.
+
+**Focus:**
+
+* 👨‍🎓 Student Management
+* 👨‍🏫 Teacher Management
+* 📚 Academic Management
+* 📸 Face Recognition Attendance
+* 🌐 School Websites
+* 🤖 AI-powered Website Generation
+* 💳 SaaS Subscription System
+* ☁️ Supabase Backend
+* 🚀 Vercel Deployment
+
+**Tech:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Android` `AI`
 
 ---
 
-## 🧰 Tech Stack
+### 📱 School Attendance System
+
+A digital attendance ecosystem combining web applications and Android face recognition.
+
+**Features include:**
+
+* Face Recognition
+* QR Enrollment
+* Student Synchronization
+* Offline Face Database
+* CameraX
+* Room Database
+* Supabase
+* Real-time Attendance
+
+---
+
+### 🎓 Educational Technology
+
+I also build digital learning tools for Informatics education, including:
+
+* 📖 Digital Learning Materials
+* 🎮 Educational Games
+* 🧠 Computational Thinking
+* 📝 Online Assignments
+* 📊 Student Progress Systems
+* 🏆 EXP / Level / Achievement Systems
+* 💻 Interactive Informatics Learning
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,cpp,php&perline=9"
-    alt="Programming Languages"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,cpp,php" />
 </p>
 
-### 🌐 Frontend & Application Development
+### ⚛️ Frameworks & Libraries
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind,androidstudio&perline=6"
-    alt="Frontend and Application Development"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend, Database & Cloud
+### 📱 Mobile Development
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mongodb,mysql,oracle,postgres,aws,azure&perline=9"
-    alt="Backend Database and Cloud"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
-### 🛠️ Tools & Workflow
+### 🗄️ Database & Backend
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,illustrator,photoshop,arduino&perline=8"
-    alt="Development Tools"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres,oracle" />
 </p>
 
----
+### ☁️ Cloud & Deployment
 
-## 🧠 Areas of Interest
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,aws,azure,github" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <strong>🌐 Web Development</strong><br>
-      React • Next.js • TypeScript
-    </td>
-    <td align="center" width="25%">
-      <strong>📱 Application Development</strong><br>
-      Android • Kotlin • Java
-    </td>
-    <td align="center" width="25%">
-      <strong>☁️ Cloud & Backend</strong><br>
-      Firebase • Supabase • AWS
-    </td>
-    <td align="center" width="25%">
-      <strong>🤖 Data & AI</strong><br>
-      Python • Machine Learning
-    </td>
-  </tr>
-</table>
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,arduino" />
+</p>
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Fahmi's GitHub Statistics"
-    height="180"
-  />
+<div align="center">
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true"
- alt="Fahmi's Top Languages"
- height="180"
-/>
+<a href="https://github.com/fahmi959">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+</a>
 
-</p>
+<a href="https://github.com/fahmi959">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi959&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
-# 📅 GitHub Contributions by Year
+# 🔥 GitHub Streak
 
-### 🟣 2024
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/fahmi959/Upload/main/stats/2024.svg"
-    alt="Fahmi's GitHub Contributions 2024"
-  />
-</p>
+<a href="https://github.com/fahmi959">
+<img src="https://streak-stats.demolab.com/?user=fahmi959&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🔵 2025
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/fahmi959/Upload/main/stats/2025.svg"
-    alt="Fahmi's GitHub Contributions 2025"
-  />
-</p>
-
-### 🟢 2026 — Year to Date
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/fahmi959/Upload/main/stats/2026.svg"
-    alt="Fahmi's GitHub Contributions 2026"
-  />
-</p>
-
-> Contribution calendars above are generated automatically from GitHub contribution data.
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=fahmi959&theme=tokyonight&hide_border=true&starting_year=2023"
-    alt="Fahmi's GitHub Contribution Streak"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=fahmi959&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <a href="https://github.com/fahmi959">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=fahmi959&theme=tokyonight&no-bg=true&no-frame=true&column=6"
-      alt="GitHub Profile Trophies"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
-## 📌 What I Like Building
+# 📈 Contribution Activity
 
-I enjoy creating software that is:
+<div align="center">
 
-* ⚡ **Fast and responsive**
-* 🧩 **Modular and maintainable**
-* 🎨 **Clean and intuitive**
-* 🔐 **Reliable and secure**
-* 📱 **Comfortable across devices**
-* ☁️ **Ready for modern cloud infrastructure**
-* 📈 **Scalable as the number of users grows**
+<a href="https://github.com/fahmi959">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmi959&theme=tokyo-night&hide_border=true&area=true" />
+</a>
 
-I especially enjoy projects where **frontend experience, backend logic, database design, cloud infrastructure, and deployment** have to work together as one complete system.
+</div>
 
 ---
 
-## 💡 Development Philosophy
+# 📌 Featured Projects
 
-> **Build useful things. Keep learning. Improve continuously.**
+<div align="center">
 
-I believe good software is not only about making something work, but also about making it **understandable, maintainable, secure, scalable, and useful** to the people who use it.
+<a href="https://github.com/fahmi959/absen-siswa-man-4-tasik">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fahmi959&repo=absen-siswa-man-4-tasik&theme=tokyonight&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/fahmi959/Aksara">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fahmi959&repo=Aksara&theme=tokyonight&hide_border=true" />
+</a>
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/fahmi959">
-    <img
-      src="https://img.shields.io/badge/GitHub-fahmi959-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/fahmi-ardiansyah-759a73179/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://instagram.com/ardgamingfahmi">
-    <img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="https://www.youtube.com/@mediaserbabisa1474/videos">
-    <img
-      src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
-  </a>
-</p>
-
-<p align="center">
-  📧 <strong>Email:</strong>
-  <a href="mailto:fahmiardiansyah959@students.unnes.ac.id">
-    fahmiardiansyah959@students.unnes.ac.id
-  </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Activity
+# 🎯 Areas of Interest
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/fahmi959/Upload/output/snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-## 🟡 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/fahmi959/Upload/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/fahmi959/Upload/output/pacman-contribution-graph.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/fahmi959/Upload/output/pacman-contribution-graph.svg"
-      alt="GitHub Contribution Graph"
-    />
-  </picture>
-</p>
+```text
+Web Development        ████████████████████
+Software Engineering   ███████████████████░
+Artificial Intelligence██████████████████░░
+Cloud Computing        █████████████████░░░
+Mobile Development     ████████████████░░░░
+Database Engineering   ████████████████░░░░
+Educational Technology ███████████████████░
+Automation             ██████████████████░░
+```
 
 ---
 
-<p align="center">
-  <sub>Built with curiosity, consistency, and a lot of code.</sub>
-</p>
+# 🌱 Currently Learning
 
-<p align="center">
-  <a href="https://github.com/fahmi959">
-    <img
-      src="https://img.shields.io/badge/GitHub-fahmi959-181717?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub Profile"
-    />
-  </a>
-</p>
+* 🤖 AI Agents & AI-powered applications
+* 🧠 Large Language Models
+* ☁️ Cloud Architecture
+* ⚡ Next.js & modern React
+* 🗄️ PostgreSQL & Supabase
+* 📱 Android & Computer Vision
+* 🚀 SaaS Architecture
+* 🔐 Application Security
+* 🏗️ Scalable Software Architecture
+
+---
+
+# 💡 What I Like Building
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   💡 Idea                                   │
+│      ↓                                      │
+│   🧠 Design                                 │
+│      ↓                                      │
+│   💻 Development                            │
+│      ↓                                      │
+│   🧪 Testing                                │
+│      ↓                                      │
+│   ☁️ Deployment                              │
+│      ↓                                      │
+│   🚀 Real-world Application                 │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+I prefer building applications that are not only technically interesting, but also **useful in real-world situations**.
+
+---
+
+# 📚 Development Philosophy
+
+> **Build things that solve real problems.**
+
+I believe good software is not simply about writing code.
+
+It's about:
+
+* Understanding the problem
+* Designing the right solution
+* Writing maintainable code
+* Testing properly
+* Thinking about security
+* Deploying reliably
+* Continuously improving the product
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/fahmi959">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Build. Learn. Repeat. 🚀
+
+⭐ If you find my projects useful, consider giving them a star!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+
+</div>
