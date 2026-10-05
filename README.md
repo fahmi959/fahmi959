@@ -1,22 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Fahmi Ardiansyah
-
-### 💻 Programmer • IT Enthusiast • Educator • Full-Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+useful+digital+solutions;Web+%7C+Mobile+%7C+Cloud+%7C+AI;Always+learning+%26+always+building" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" />
 
 <br>
 
+# 🔥 FAHMI ARDIANSYAH
+
+### 💻 Programmer • Full-Stack Developer • IT Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF4500&center=true&vCenter=true&width=750&lines=🔥+Building+Digital+Solutions;⚡+Web+%7C+Mobile+%7C+Cloud+%7C+AI;💻+Code+%7C+Build+%7C+Deploy;🚀+Turning+Ideas+Into+Applications;🔥+Always+Learning+%26+Building" />
+
+<br><br>
+
 <a href="https://github.com/fahmi959">
-  <img src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/badge/GITHUB-fahmi959-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/fahmi959?tab=followers">
-  <img src="https://img.shields.io/github/followers/fahmi959?label=Followers&style=flat" alt="Followers" />
+<img src="https://img.shields.io/github/followers/fahmi959?style=for-the-badge&label=FOLLOWERS&color=FF4500&logo=github" />
 </a>
-<a href="https://github.com/fahmi959">
-  <img src="https://img.shields.io/github/stars/fahmi959?label=Stars&style=flat" alt="Stars" />
-</a>
+
+<br><br>
+
+🔥 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🔥
 
 </div>
 
