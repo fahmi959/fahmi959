@@ -166,7 +166,7 @@ I also build digital learning tools for Informatics education, including:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fahmi959&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<img src="https://github-profile-svg.vercel.app/api/profile?username=fahmi959&mode=cyberpunk&theme=dark" />
 
 </div>
 
