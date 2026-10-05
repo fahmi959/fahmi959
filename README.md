@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20Views&color=0e75b6&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=fahmi959&label=Profile%20Views&style=flat-square"
     alt="Profile Views"
   />
 </p>
@@ -44,7 +44,7 @@ I enjoy building projects that combine clean interfaces, useful functionality, s
 ### What I Focus On
 
 * 🌐 Building modern web applications
-* ⚛️ Developing React and TypeScript applications
+* ⚛️ Developing React, Next.js, and TypeScript applications
 * 🗄️ Working with Firebase, Supabase, and modern databases
 * ☁️ Exploring cloud technologies and deployment workflows
 * 🏗️ Designing scalable application architecture
@@ -59,12 +59,13 @@ I enjoy building projects that combine clean interfaces, useful functionality, s
 I'm currently focusing on:
 
 * 🤖 **Machine Learning & Artificial Intelligence**
-* ⚛️ **Advanced React.js and Next.js patterns**
-* 🧩 **State management and scalable frontend architecture**
+* ⚛️ **Advanced React.js and Next.js**
+* 🧩 **Scalable frontend architecture and state management**
 * ☁️ **Cloud computing with AWS and Azure**
 * 🗄️ **Modern database architecture**
 * 🛠️ **Software engineering and system design**
 * 🔐 **Application security and reliable system architecture**
+* 🚀 **Cloud deployment and DevOps workflows**
 
 ---
 
@@ -93,7 +94,7 @@ I'm currently focusing on:
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mongodb,mysql,oracle,postgres,aws,azure&perline=9"
-    alt="Backend, Database and Cloud"
+    alt="Backend Database and Cloud"
   />
 </p>
 
@@ -133,12 +134,12 @@ I'm currently focusing on:
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=fahmi959&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Fahmi's GitHub Stats"
+    alt="Fahmi's GitHub Statistics"
     height="180"
   />
 
@@ -150,30 +151,47 @@ I'm currently focusing on:
 
 </p>
 
-### 📈 Contribution Activity
+---
+
+# 📅 GitHub Contributions by Year
+
+### 🟣 2024
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fahmi959&theme=tokyo-night&hide_border=true&area=true&custom_title=Fahmi%27s%20Contribution%20Activity"
-    alt="Fahmi's GitHub Contribution Activity"
+    src="https://raw.githubusercontent.com/fahmi959/Upload/main/stats/2024.svg"
+    alt="Fahmi's GitHub Contributions 2024"
   />
 </p>
 
-### 🔥 Contribution Streak
+### 🔵 2025
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/fahmi959/Upload/main/stats/2025.svg"
+    alt="Fahmi's GitHub Contributions 2025"
+  />
+</p>
+
+### 🟢 2026 — Year to Date
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/fahmi959/Upload/main/stats/2026.svg"
+    alt="Fahmi's GitHub Contributions 2026"
+  />
+</p>
+
+> Contribution calendars above are generated automatically from GitHub contribution data.
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=fahmi959&theme=tokyonight&hide_border=true&starting_year=2023"
     alt="Fahmi's GitHub Contribution Streak"
-  />
-</p>
-
-### 📅 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fahmi959&theme=github-compact&hide_border=true&area=true&custom_title=2025%20%2B%202026%20Contribution%20Activity"
-    alt="2025 and 2026 GitHub Contribution Activity"
   />
 </p>
 
